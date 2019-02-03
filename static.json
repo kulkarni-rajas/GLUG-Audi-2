@@ -1,0 +1,331 @@
+{
+                "id": "2c36b313-cfa6-47bf-b1fa-9b2b226fa8f0",
+                "name": "Anupam Basu",
+                "research_interest": "<p>Embedded Systems,</p>\r\n\r\n<p>Natural Language Processing,</p>\r\n\r\n<p>Assistive Technology,</p>\r\n\r\n<p>Natural Interface Design,</p>\r\n\r\n<p>Human-Computer Interaction and ICT4D.</p>",
+                "email": "director@admin.nitdgp.ac.in",
+                "designation": "Professor",
+                "mobile": 3432546397,
+                "joining_year": 2017,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Anupam%20Basu/anupambasu.png"
+            },
+            {
+                "id": "390710d6-2fca-47f7-8de1-aaf601bd2e49",
+                "name": "Sanghita Bhattacharjee",
+                "research_interest": "<ol>\r\n\t<li>Wireless Ad hoc and Sensor Networks.</li>\r\n\t<li>QoS Analysis in Ad hoc Networks.</li>\r\n\t<li>Energy Efficient Routing and Topology Control in Ad Hoc Networks.</li>\r\n</ol>",
+                "email": "sanghita.b@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434789010,
+                "joining_year": 2010,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Sanghita%20Bhattacharjee/s_mukh.jpg"
+            },
+            {
+                "id": "a4a13818-14bc-4d08-ad46-a06bea79b3c9",
+                "name": "Baisakhi Chakraborty",
+                "research_interest": "<p>Information Technology</p>",
+                "email": "baisakhi.chakraborty@cse.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 0,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Baisakhi%20Chakraborty/img1.png"
+            },
+            {
+                "id": "e8967390-7085-4ef5-bf2e-8fb1875cad71",
+                "name": "Mamata Dalui Chakraborty",
+                "research_interest": "<ol>\r\n\t<li>Computer Architecture.</li>\r\n\t<li>VLSI.</li>\r\n\t<li>Cellular Automata (CA).</li>\r\n\t<li>Multi-Processor and Multi-core Architecture, Parallel and Distributed System.</li>\r\n\t<li>VLSI Design and Test.</li>\r\n\t<li>Fault Tolerant Design.</li>\r\n</ol>",
+                "email": "mamata.dalui@cse.nitdgp.ac.in, mamata.06@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434789011,
+                "joining_year": 2010,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Mamata%20Dalui%20(Chakraborty)/m_dalui.jpg"
+            },
+            {
+                "id": "a44545d7-9163-466c-98d7-1dc6c500fad8",
+                "name": "Saravanan Chandran",
+                "research_interest": "<ol>\r\n\t<li>Image Compression</li>\r\n\t<li>Image Segmentation</li>\r\n\t<li>Non-invasive Biometrics</li>\r\n\t<li>Optical Character Recognition</li>\r\n\t<li>Steganography</li>\r\n</ol>",
+                "email": "cs@cse.nitdgp.ac.in, dr.cs1973@gmail.com",
+                "designation": "Associate Professor",
+                "mobile": 9434788036,
+                "joining_year": 2007,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Saravanan%20Chandran/s_chandran.jpg"
+            },
+            {
+                "id": "d2b76c08-40b1-43e0-a6ee-e78c313e3367",
+                "name": "Suvamoy Changder",
+                "research_interest": "<p>Information Security. Steganography &amp; Watermarking.</p>",
+                "email": "suvamoy.nitdgp@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434788094,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Suvamoy%20Changder/s_changder.jpg"
+            },
+            {
+                "id": "75334fb7-bb38-4865-b7a4-3e340673093c",
+                "name": "Rajib Kumar Chatterjee",
+                "research_interest": "<p>Software Engineering</p>",
+                "email": "chatterjee.rajib@gmail.com, rajib.chatterjee@cc.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 9474051285,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Rajib%20Kumar%20Chatterjee/rk_mukh.jpg"
+            },
+            {
+                "id": "7a84469b-0ce5-4e32-9b8d-4819459cb036",
+                "name": "Prasenjit Choudhury",
+                "research_interest": "<ol>\r\n\t<li>Security and Service Management in Mobile Ad-hoc Network.</li>\r\n\t<li>Big Data Analytics.</li>\r\n</ol>",
+                "email": "prasenjit0007@yahoo.co.in",
+                "designation": "Assistant Professor",
+                "mobile": 9434788196,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Prasenjit%20Choudhury/p_chowdhury.jpg"
+            },
+            {
+                "id": "5f079757-2c2c-4bba-9b6c-ad8fb014d861",
+                "name": "Subhrabrata Choudhury",
+                "research_interest": "<p>Communication Networks, Modeling &amp; simulation of Networks, Optical Burst Switched Network, Distributed Systems, Wireless Networks.</p>",
+                "email": "subhrabrata@cse.nitdgp.ac.in",
+                "designation": "Associate Professor",
+                "mobile": 9434788133,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Subhrabrata%20Choudhury/img1.png"
+            },
+            {
+                "id": "a1f60c66-0a89-48b0-a728-5e8c9f9b59e7",
+                "name": "Deepanwita Das",
+                "research_interest": "<p>Distributed Algorithms, Swarm Robotics, Robot Design, Modeling, and Simulation, Robotics in Smart/Digital Manufacturing.</p>",
+                "email": "deepanwita@cse.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 9434788179,
+                "joining_year": 2007,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Deepanwita%20Das/DD.jpg"
+            },
+            {
+                "id": "2ab7de37-136a-42d7-9653-604d48ab3151",
+                "name": "Suvrojit Das",
+                "research_interest": "<ol>\r\n\t<li>Computer Security.</li>\r\n\t<li>Digital Forensics.</li>\r\n</ol>",
+                "email": "suvrojit.das@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 0,
+                "joining_year": 2002,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Suvrojit%20Das/s_das.jpg"
+            },
+            {
+                "id": "d6bc48e4-d972-4240-9caa-2fe78847a279",
+                "name": "Tanmay De",
+                "research_interest": "<p>Optical Network, Delay Tolerant Network, Wireless Sensor Networks.</p>",
+                "email": "tanmayd12@gmail.com, tanmay.de@cse.nitdgp.ac.in",
+                "designation": "Associate Professor",
+                "mobile": 9434788123,
+                "joining_year": 1998,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Dr.%20Tanmay%20De/tanmoy_dey.jpg"
+            },
+            {
+                "id": "fcb853d8-bbdb-4327-a31f-1eda672da992",
+                "name": "Animesh Dutta",
+                "research_interest": "<p>Distributed Computing, Software Engineering</p>",
+                "email": "animeshrec at gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9474364241,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Animesh%20Dutta/Animesh_photo.JPG"
+            },
+            {
+                "id": "5c73612c-d050-433f-b7a6-d64b0873ce3d",
+                "name": "Parag Kumar Guhathakurta",
+                "research_interest": "<p>DBMS, Network, Algorithm Analysis and Design, Formal language and automata</p>\r\n\r\n<ol>\r\n\t<li>Mobile Computing.</li>\r\n</ol>",
+                "email": "parag.nitdgp@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434788159,
+                "joining_year": 2007,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Parag%20Kumar%20Guhathakurta/parag.jpg"
+            },
+            {
+                "id": "53da1bdf-70d1-4d82-b6bb-14a51fc743db",
+                "name": "Jaydeep Howlader",
+                "research_interest": "<p>Cryptography, Automata &amp; Theory of Computation, Object Oriented Programming &amp; Modeling</p>",
+                "email": "jaydeep@cse.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 9434788178,
+                "joining_year": 2002,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Jaydeep%20Howlader/default.png"
+            },
+            {
+                "id": "ad9c45f2-f905-41a1-86af-659540868d6d",
+                "name": "Nanda Dulal Jana",
+                "research_interest": "<ol>\r\n\t<li>Machine Learning</li>\r\n\t<li>Evolutionary Computation</li>\r\n\t<li>Bioinformatics</li>\r\n\t<li>Big Data Optimization</li>\r\n\t<li>Algorithm Selection Problem</li>\r\n</ol>",
+                "email": "nandadulal@cse.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 9434788181,
+                "joining_year": 2008,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Nanda%20Dulal%20Jana/nd_jana.jpg"
+            },
+            {
+                "id": "c5932811-f5a1-4b85-8685-ade5f0a05f3d",
+                "name": "Dakshina Ranjan Kisku",
+                "research_interest": "<ul>\r\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Biometrics</span></span></li>\r\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Machine Learning</span></span></li>\r\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Image Processing</span></span></li>\r\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Pattern Classification</span></span></li>\r\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Affective Computing</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><u><strong>Thesis Supervised</strong></u></span></span><br />\r\n<span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Masters Thesis Supervised:</strong></span></span></p>\r\n\r\n<ol>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Saloni, &quot;<u>Visible Face Recognition in Unconstrained Environment</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2018. <strong>(Joint Supervision)</strong></span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Lipika Mohanty, &quot;<u>Effect of PIE in Face Recognition: Pose, Illumination </u></span></span><u><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">and</span></span></u><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><u> Expressions</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2018. <strong>(Joint Supervision)</strong></span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Komal Bharati, &quot;<u>Heterogeneous Face Recognition On the Use of Multiple Representations of Local Descriptors</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2018.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Balram Rajoriya, &quot;<u>Face Recognition in Constrained and Unconstrained Environments with Analogous Deep Representation</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2018.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Priyabrata Dash, &quot;<u>Fast Face Detection Using a Unified Architecture: An Approach to Unconstrained, Degraded, Infrared and Crowd Face Images</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2017.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Neha Nitin Farkade, &quot;<u>An Approach towards the Randomization of AES to Counter the Meet-in-the-Middle Attack</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2017. <strong>(Joint Supervision)</strong></span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Akanksha Das, &quot;<u>Attention Identification of Detected and Localized Crowd Faces</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2016.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Kunwar Pankaj Siddharth, &quot;<u>Heterogeneous Face Identification by Fusion of Local Descriptors</u>&quot; M.Tech. Thesis, NIT Durgapur, May 2016.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Himanshu Jaiswal, &quot;<u>Rank Order Reduction based Fast Pattern Matching Algorithm</u>&quot;, M.Tech. Thesis, NIT Durgapur, May 2016.</span></span></li>\r\n</ol>\r\n\r\n<p><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Undergraduate Thesis Supervised:</strong></span></span></p>\r\n\r\n<ol>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Anindya Chanda and Ayush Jha, &quot;<u>Activity Recognition Using Skeletal Data</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2018.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Debajyoti Dutta, &quot;<u>Body Gesture Recognition Using Skeletal Data</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2018. <strong><span style=\"color:#e74c3c\">(Nominated for Best UG Project Award)</span></strong></span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Movva Akhil Chowdary, Vinay Kudari, Siddani D D D Mani Sri Nagendra, Kajal Rajwar, Vishnu Naik, &quot;<u>Gender Classification Using Convolutional Neural Network</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2018.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Debasish Paramanik, &quot;<u>Comparison of Stochastic Method and Holistic Method for Median Filter Detection in Digital Forensics and Applications</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2017.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Tannu and Sandip Kumar Yadav, &quot;<u>A Robust Framework for Homogeneous and Heterogeneous Fingerprint Verification</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2017.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Mahesh Kommireddy and Parameswara Reddy, &quot;<u>Fingerprint Matching and Verification Using Ford-Fulkerson Algorithm and Congruent Graph</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2017.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Rakesh Pathari, Siraj Anand and Divyansh Arya, &quot;<u>Extraction of Features of Human Face Using Various Techniques</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2017.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">R. Om Prakash, Latha Sri Varri, Abdur Rahman, Arnabi Modak, Abhishek Kumar, Yalavarthi Sudesh, Namit Mahuvakar, Atla Siva Kumar Reddy and </span></span><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Garakurthi</span></span><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"> Rohith, &quot;<u>Robust Palmprint Recognition On the Use of FRIT</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2016.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Arka Das, Shaoli Sikdar, Vijay Kumar, Anupam Singh, &quot;<u>Hybrid Data Compression</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2015.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Santosh Kumar, Abhishek Kumar, Yash Ladia, &quot;<u>Tattoo Recognition</u>&quot;, B.Tech. Thesis, NIT Durgapur, May 2015.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Md. Shahin Afroz, Syed Afzal Ahamed, Dipak Singh, Farhanul Haque Ansari, &quot;<u>Study of Some NP-Complete Problems and Its&rsquo; Application in Face Recognition</u>&quot;, B.Tech. Thesis, Asansol Engineering College, 2014.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Debanjan Chatterjee, Sithikanta Trivedy, &quot;<u>Face Image Abstraction by Ford-Fulkerson Algorithm for Human Identification</u>&quot;, B.Tech. Thesis, Asansol Engineering College, 2014.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Chandreyee Maiti, Debanjana Baksi, Ipsita Zamider, Pinky Gorai, &quot;<u>Data Hiding in Images Using Some Efficient Steganography Techniques</u>&quot;, B.Tech. Thesis, Asansol Engineering College, 2011.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Srea Chakraborty, Ishita Bhattacharjee, Manisha Mondal, Shreya Halder, Vijay Raj, &quot;<u>Liveness Detection in Face Recognition</u>&quot;, B.Tech. Thesis, Asansol Engineering College, 2011.</span></span></li>\r\n</ol>\r\n\r\n<p><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Media Coverage / Research Highlights:</strong></span></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Our book &quot;<em>Developing Next-Generation Countermeasures for Homeland Security Threat Prevention</em>&quot; getting featured in <strong>Malaysia Daily</strong> <a href=\"https://www.malaymail.com/s/1697017/malaysia-extremism-and-terrorism-part-1-kevin-fernandez-and-greg-lopez\">Malaymail</a>.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Media Coverage: <em>Our book &quot;Advances in Biometrics for Secure Human Authentication and Recognition</em>&quot; getting featured at <a href=\"http://survsys.info/details-Mymlaz/5-2.html\">Surveillance Systems</a>.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Read the&nbsp;<a href=\"https://sites.google.com/site/dakshinalink/review.pdf\">review</a> on our book &quot;<em>Advances in Biometrics for Secure Human Authentication and Recognition</em>&quot;.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">My article &quot;<a href=\"http://newsbreaks.infotoday.com/Digest/IGI-Global-Discusses-Biometric-Technology-Pros-and-Cons-118326.asp\"><span style=\"color:#2980b9\">The &#39;New&#39; Type of Identity Theft: Are You Secure?</span></a>&quot; getting featured as week&#39;s NewsBreaks article and the monthly NewsLink Spotlight in the New </span></span><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:12px\">Jersey based</span></span></span><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"> news media Information Today, Inc.!</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">My article &quot;<a href=\"https://www.igi-global.com/newsroom/archive/new-type-identity-theft-you/3185/\">The &#39;New&#39; Type of Identity Theft: Are You Secure?</a>&quot; getting featured in IGI Global Newsroom.</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Our book &quot;Developing Next-Generation Countermeasures for Homeland Security Threat Prevention&quot; getting featured at <a href=\"https://www.igi-global.com/newsroom/archive/spotlight-titles-national-safety-month/2558/\">National Safety Council&#39;s Spotlight Titles for National Safety Month</a>!</span></span></li>\r\n\t<li><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Our book &quot;Advances in Biometrics for Secure Human Authentication and Recognition&quot; getting featured in <a href=\"http://www.forensic-access.co.uk/wp-content/uploads/2016/01/gs-15-37b-forensic-science-beyond-evidence.pdf\">Annual Report of the Government Office for Science</a>, UK.</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-size:12px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">My research profile @<a href=\"https://www.scopus.com/authid/detail.uri?authorId=22034750800\">Scopus</a> &nbsp;| My research profile @<a href=\"https://scholar.google.com/citations?user=AN19DhAAAAAJ&amp;hl=en\">Google Scholar</a></span></span></p>\r\n\r\n<p>&nbsp;</p>",
+                "email": "drkisku@cse.nitdgp.ac.in, drkisku@gmail.com, dakshina.nitdgp@ieee.org",
+                "designation": "Associate Professor",
+                "mobile": 9732111234,
+                "joining_year": 2014,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Dakshina%20Ranjan%20Kisku/drkisku.jpg"
+            },
+            {
+                "id": "d962f2fb-ac70-4bbd-9b63-24a621f54103",
+                "name": "Subhankar Majhi",
+                "research_interest": "<p>VLSI,Computer Graphics</p>",
+                "email": "subhankar@cse.nitdgp.ac.in, subhankar_nitd@hotmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 3432755302,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Subhankar%20Majhi/default.png"
+            },
+            {
+                "id": "c8a7fd24-de21-4537-8e67-acab7d45b9d2",
+                "name": "Debasis Mitra",
+                "research_interest": "<ul>\r\n\t<li>Computer-aided design and testing of digital VLSI circuits</li>\r\n\t<li>Algorithms for design and testing of digital microfluidic biochips</li>\r\n\t<li>Fault-tolerant design of quantum-dot cellular automata circuits</li>\r\n\t<li>Algorithmic fairness</li>\r\n</ul>",
+                "email": "debasis@cse.nitdgp.ac.in",
+                "designation": "Associate Professor",
+                "mobile": 9434789012,
+                "joining_year": 2010,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Debasis%20Mitra/DM2017.jpg"
+            },
+            {
+                "id": "0db34405-8fab-4320-9f1d-f084b362f6e5",
+                "name": "Sajal Mukhopadhyay",
+                "research_interest": "<p>Algorithmic game theory and its applications, Reinforcement Learning (Contextual Bandit).</p>",
+                "email": "sajal@cse.nitdgp.ac.in, sajmure@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434788177,
+                "joining_year": 2001,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Sajal%20Mukhopadhyay/Sajal_Mukhopadhyay_image.jpg"
+            },
+            {
+                "id": "83685b26-3016-491e-9ad1-91817106ded0",
+                "name": "Debashis Nandi",
+                "research_interest": "<p>Image Processing, Medical Imaging, Secure Communication, Chaos and Security, Video Coding.</p>",
+                "email": "debashis@cse.nitdgp.ac.in",
+                "designation": "Associate Professor",
+                "mobile": 9434660515,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Debashis%20Nandi/nandi.jpg"
+            },
+            {
+                "id": "314c24a0-da5f-420e-a223-a53a6b037cba",
+                "name": "Subrata Nandi",
+                "research_interest": "<p>Delay Tolerant Network,Sensor Network,Complex Network.</p>",
+                "email": "subrata.nandi@cse.nitdgp.ac.in,",
+                "designation": "Assistant Professor",
+                "mobile": 9434788158,
+                "joining_year": 1998,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Dr.%20Subrata%20Nandi/s_nandi_Tkl07bQ.jpg"
+            },
+            {
+                "id": "d6f418e3-dc5c-472d-9e45-0cdf1ff20248",
+                "name": "Tandra Pal",
+                "research_interest": "<p>Computational Intelligence (CI)/Soft Computing, Multi Objective Genetic Algorithms and their Applications, Fuzzy Logic, Artificial Neural Network, Pattern Recognition, Fuzzy Logic Controllers.</p>",
+                "email": "tandra.pal@cse.nitdgp.ac.in, tandra.pal@gmail.com",
+                "designation": "Professor",
+                "mobile": 9434788121,
+                "joining_year": 1994,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Dr.%20Tandra%20Pal/t_dey.jpg"
+            },
+            {
+                "id": "5a862baa-af3e-4f04-af66-ea9e03ad830a",
+                "name": "Suchismita Roy",
+                "research_interest": "<p>Algorithms for VLSI Design and Test, Satisfiability Checking.</p>",
+                "email": "suchismita27@yahoo.com",
+                "designation": "Associate Professor",
+                "mobile": 9434788122,
+                "joining_year": 1998,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Dr.%20Suchismita%20Roy/s_roy_uiwVOgh.jpg"
+            },
+            {
+                "id": "ffeb3cca-56ef-40e8-a753-045c085db18b",
+                "name": "Sanjib Sadhu",
+                "research_interest": "<ol>\r\n\t<li>Computational Geometry.</li>\r\n\t<li>Delay Tolerant Network</li>\r\n</ol>",
+                "email": "sanjib.sadhu@cse.nitdgp.ac.in, sanjibsadhu411@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434788160,
+                "joining_year": 2008,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Sanjib%20Sadhu/s_sadhu.jpg"
+            },
+            {
+                "id": "7b6fa2f1-7d09-43f5-9530-c7f131300c1c",
+                "name": "Mousumi Saha",
+                "research_interest": "<p>VLSI Design And Testing</p>",
+                "email": "msaha.nitd@gmail.com,",
+                "designation": "Assistant Professor",
+                "mobile": 9434788194,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Mousumi%20Saha/m_saha.jpg"
+            },
+            {
+                "id": "1605783b-afee-47ad-b011-0f6a9f2e6713",
+                "name": "Sujoy Saha",
+                "research_interest": "<p><strong><span style=\"font-size:14px\">1. Modelling &amp; System Development for Challanged Network Scenario</span></strong></p>\r\n\r\n<p><strong><span style=\"font-size:14px\">2. Internet of Things</span></strong></p>\r\n\r\n<p><strong><span style=\"font-size:14px\">3. Urban Computing : Intelligent Transport System &amp; Environment Monitoring &amp; Prediction</span></strong></p>\r\n\r\n<p><strong><span style=\"font-size:14px\">4. Visible Light Communication System</span></strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"color:null\"><span style=\"font-size:14px\"><strong>Please visit our website:&nbsp;<a href=\"https://www.nitdgp.ac.in/mcnrg/\">https://www.nitdgp.ac.in/mcnrg/</a></strong></span></span></p>",
+                "email": "sujoy.ju@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434789009,
+                "joining_year": 2010,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Sujoy%20Saha/s_saha.jpg"
+            },
+            {
+                "id": "3b5e8096-d92d-4e01-bccf-37fb83a07091",
+                "name": "Goutam Sanyal",
+                "research_interest": "<p>Computer Vision, Computer network, Information Security</p>",
+                "email": "goutam.sanyal@cse.nitdgp.ac.in, nitgsanyal@gmail.com",
+                "designation": "Professor",
+                "mobile": 9434788006,
+                "joining_year": 1986,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Goutam%20Sanyal/sanyal.jpg"
+            },
+            {
+                "id": "64d45119-50e8-4928-83e6-10dc90639502",
+                "name": "Anirban Sarkar",
+                "research_interest": "<p>Software Engineering,</p>\r\n\r\n<p>Database Management System,</p>\r\n\r\n<p>Object Oriented System,</p>\r\n\r\n<p>Data Warehousing And Data Mining,</p>\r\n\r\n<p>XML Technologies.</p>",
+                "email": "anirban.sarkar@cse.nitdgp.ac.in; sarkar.anirban@gmail.com",
+                "designation": "Associate Professor",
+                "mobile": 9434002205,
+                "joining_year": 2000,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Anirban%20Sarkar/a_sarkar.jpg"
+            },
+            {
+                "id": "bd8f31e7-5d8a-4c7e-86a1-073eb4b0b665",
+                "name": "Goutam Sarker",
+                "research_interest": "<p><span style=\"color:#ff00cc\">Convolution Neural Networks (CNN) and Deep Learning</span></p>\r\n\r\n<p><span style=\"color:#ff00cc\">Biometric based Person&nbsp;&nbsp;Authentication</span></p>\r\n\r\n<p><span style=\"color:#ff00cc\">Text &amp; Image Categorization and Summarization.</span></p>\r\n\r\n<p><span style=\"color:#ff00cc\">Machine Learning, Machie Transcription&nbsp;&amp; Expert Systems.</span></p>\r\n\r\n<p><span style=\"color:#ff00cc\">Pattern Recognition &amp; Iamge Understanding.</span></p>\r\n\r\n<p><span style=\"color:#ff00cc\">Data Warehousing &amp; Data Mininng&nbsp;</span></p>\r\n\r\n<p><span style=\"color:#2980b9\">ORCID : 0000-0002-9510-6777</span></p>\r\n\r\n<p>&nbsp;</p>",
+                "email": "g_sarker@ieee.org, goutam.sarker@cse.nitdgp.ac.in, sarkergoutam@yahoo.co.in",
+                "designation": "Associate Professor",
+                "mobile": 9434788025,
+                "joining_year": 1998,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Goutam%20Sarker/G_SAR_11.jpg"
+            },
+            {
+                "id": "694f6909-0de4-46de-8284-9b88988ff1d1",
+                "name": "Bibhash Sen",
+                "research_interest": "<ol>\r\n\t<li>Hardware Security (PUF) and its applications.</li>\r\n\t<li>Hardware Trojan Detection and Prevention</li>\r\n\t<li>Secure Architecrure for IoT application</li>\r\n\t<li>Embedded System &amp; its application in medical science</li>\r\n\t<li>Quantum-dot Cellular Automata (QCA), Reversible Logic and Fault-Tolerant Architecture</li>\r\n</ol>",
+                "email": "bibhash.sen@cse.nitdgp.ac.in",
+                "designation": "Associate Professor",
+                "mobile": 9434788161,
+                "joining_year": 2008,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Bibhash%20sen/b_sen.jpg"
+            },
+            {
+                "id": "f3ce2c57-32db-43d2-9ca4-135e0bbf2430",
+                "name": "Abhijit Sharma",
+                "research_interest": "<p>Mobile Cloud Computing, Mobile Computing, Wireless Network</p>\r\n\r\n<ol>\r\n\t<li>Internet of Things and Mobile Cellular Networks.</li>\r\n</ol>",
+                "email": "abhijit.sharma@cse.nitdgp.ac.in, abhijit.cst@gmail.com",
+                "designation": "Assistant Professor",
+                "mobile": 9434789008,
+                "joining_year": 2010,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/Abhijit%20Sharma/a_sharma.jpg"
+            },
+            {
+                "id": "d11faebc-d112-446d-a821-4d25eccdfdfe",
+                "name": "User Test",
+                "research_interest": "<p>Research&nbsp; Interest</p>",
+                "email": "user.test@dept.nitdgp.ac.in",
+                "designation": "Assistant Professor",
+                "mobile": 23124345,
+                "joining_year": 1959,
+                "image": "https://admin.nitdgp.ac.in/files/faculty/User%20Test/blank-user.jpg"
+            }
+        ]
